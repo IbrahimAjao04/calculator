@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.calculator{
+    background-color: blue;
+}
+.show-arithmetic{
+    width: 200px;
+    background-color: white;
+}
+td{
+    margin-left: 5px;
+}
+td input{
+    width: 40px;
+    height: 40px;
+}
